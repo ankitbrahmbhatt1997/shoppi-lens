@@ -87,11 +87,6 @@ Shoppi-lens is a cutting-edge visual search platform that helps users find simil
 - Performance optimizations for large datasets
 - Integration with more image sources
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Technical Deep Dive: CLIP AI & Vector Database
 
@@ -209,3 +204,12 @@ This combination of CLIP AI and vector database technology enables powerful, con
 - Ensure sufficient memory for large datasets
 - Verify database connection settings
 - Check console for specific error messages
+
+
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
