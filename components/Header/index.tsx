@@ -30,12 +30,9 @@ export default function Header() {
               fill="white"
             />
             <image
-              src="https://ssl.gstatic.com/gb/images/bar/al-icon.png"
-              alt=""
-              height="24"
-              width="24"
-              style={{ border: "none", display: "none" }}
-            ></image>
+              href="https://ssl.gstatic.com/gb/images/bar/al-icon.png"
+              style={{ display: "none" }}
+            />
           </svg>
         </div>
       </div>

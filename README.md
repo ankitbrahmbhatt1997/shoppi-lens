@@ -1,7 +1,7 @@
-# Shoppi-lens - Visual Search for E-commerce
+# ShoppinLens - Visual Search for E-commerce
 
 ## Overview
-Shoppi-lens is a cutting-edge visual search platform that helps users find similar products using image recognition. Built with Next.js and TypeScript, it provides an intuitive interface for visual product discovery, powered by advanced image processing and similarity search features.
+ShoppinLens is a cutting-edge visual search platform that helps users find similar products using image recognition. Built with Next.js and TypeScript, it provides an intuitive interface for visual product discovery, powered by advanced image processing and similarity search features.
 
 ## Features
 
