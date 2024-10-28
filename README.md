@@ -1,5 +1,13 @@
 # ShoppinLens - Visual Search for E-commerce
 
+## Live Demo
+🚀 Try it now: [shoppin-lens.com](https://shoppin-lens.com)
+
+## Preview
+![ShoppinLens Preview](/public/images/preview.png)
+
+> Visual search in action: Upload any product image and find visually similar items instantly
+
 ## Overview
 ShoppinLens is a cutting-edge visual search platform that helps users find similar products using image recognition. Built with Next.js and TypeScript, it provides an intuitive interface for visual product discovery, powered by advanced image processing and similarity search features.
 
@@ -212,4 +220,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-

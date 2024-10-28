@@ -57,7 +57,7 @@ next-env.d.ts
 data-set/
 *.jpg
 *.jpeg
-*.png
+# *.png
 *.gif
 *.webp
 
