@@ -16,8 +16,8 @@ export default async function handler(
 
   try {
     // First, ensure the table exists
-    // console.log('Checking/creating table...');
-    // await createTableIfNotExists();
+    console.log('Checking/creating table...');
+    await createTableIfNotExists();
     
     // Then proceed with loading the dataset
     const datasetPath = path.join(process.cwd(), 'data-set');

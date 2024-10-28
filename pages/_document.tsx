@@ -5,7 +5,6 @@ const _document = () => {
   return (
     <Html lang="en">
       <Head>
-        <title>Scify</title>
         <link rel="icon" href="/images/logo.svg" />
         <link
           href="https://fonts.googleapis.com/css2?family=Jost:wght@400;700&display=swap"

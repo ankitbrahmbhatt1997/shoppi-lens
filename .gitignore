@@ -52,6 +52,15 @@ next-env.d.ts
 # Supabase
 .supabase
 
+# Dataset
+/data-set
+data-set/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+
 # OS generated files
 .DS_Store
 .DS_Store?
