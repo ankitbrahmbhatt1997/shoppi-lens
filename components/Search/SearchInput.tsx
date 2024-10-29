@@ -9,6 +9,8 @@ interface SearchInputProps {
   setIsGoogleLensOpen: (isOpen: boolean) => void;
 }
 
+
+
 export default function SearchInput({
   query,
   setQuery,

@@ -7,6 +7,11 @@ interface SearchSuggestionsProps {
   isLoading: boolean;
 }
 
+const openGoogleSearch = (keyword: string) => {
+  const searchQuery = encodeURIComponent(keyword);
+  window.open(`https://www.google.com/search?q=${searchQuery}`, '_blank');
+};
+
 export default function SearchSuggestions({
   query,
   suggestions,
@@ -23,6 +28,7 @@ export default function SearchSuggestions({
             <div
               key={index}
               className="flex items-center space-x-2 cursor-pointer hover:bg-gray-700 p-2 rounded-lg text-[1.6rem]"
+              onClick={() => openGoogleSearch(suggestion)}
             >
               <div>🔍</div>
               <div className="pl-4">{suggestion}</div>
